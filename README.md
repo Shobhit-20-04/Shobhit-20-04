@@ -1,8 +1,26 @@
 # 💫 About Me:
 
-# Hi there! I'm Shobhit Agrawal 👋`<br><br>`## 🚀 About Me`<br>`I'm a passionate **software developer** currently pursuing **B.Tech** from Shri Shankaracharya Technical Campus. I have been exploring various **programming technologies** for the past **two years**, and my key areas of expertise include **MERN Stack, Java, Python, Blockchain, and Web Development.**`<br><br>`🌱 **Currently Learning:**`<br>`- Web3-based technologies and Blockchain development.`<br>`- Revisiting and refining my Web Development skills.`<br>`- Expanding knowledge in Data Structures & Algorithms.`<br><br>`💻 **Looking to collaborate on:**`<br>`- Live projects in **MERN Stack & Blockchain Development**.`<br>`- Open-source contributions.`<br>`- Innovative and impactful software projects.`<br><br>`⚡ **Fun Fact:**`<br>`I started using GitHub _after_ getting into programming, and now I love it! 😃`<br><br>`## 🛠️ Skills & Technologies`<br>`### **Web Development:**`<br>`- **Frontend:** HTML5, CSS3, JavaScript, React.js, Bootstrap, jQuery, GSAP`<br>`- **Backend:** Node.js, Express.js, PHP, AJAX`<br>`- **Databases:** MySQL, MongoDB`<br>`- **Tools & Platforms:** Git, GitHub, VS Code, PyCharm, Jupyter`<br><br>`### **Programming Languages:**`<br>`- Java (Core Java, Java Swing, JDBC, Interfaces)`<br>`- Python (NumPy, Pandas, Matplotlib, Tkinter)`<br>`- C, C++`<br><br>`### **Data Structures & Algorithms:**`<br>`- Arrays, Linked Lists, Trees, Graphs, Stack, Queue`<br>`- Standard Template Library (STL)`<br><br>`### **Software Development Lifecycle (SDLC):**`<br>`- Agile and Iterative methodologies`<br>`- Full-stack development approach`<br>`- Version control and deployment strategies`<br><br>`## 📫 Connect with Me`<br>`- **LinkedIn:** [Shobhit Agrawal](https://www.linkedin.com/in/shobhit-agrawal20)`<br>`- **Instagram:** [@shobhit_20_04](https://www.instagram.com/shobhit_20_04)`<br>`- **GitHub:** [Shobhit-20-04](https://github.com/Shobhit-20-04)`<br><br>`🚀 Let's collaborate and build something amazing together!
+## Hi there! I'm Shobhit Agrawal 👋
 
-## 🌐 Socials:
+## 🚀 About Me
+
+I'm a passionate **software developer** currently pursuing **B.Tech** from Shri Shankaracharya Technical Campus. I have been exploring various **programming technologies** for the past **two years**, and my key areas of expertise include **MERN Stack, Java, Python, Blockchain, and Web Development.**
+
+🌱 **Currently Learning:**
+
+- Web3-based technologies and Blockchain development.
+- Revisiting and refining my Web Development skills.
+- Expanding knowledge in Data Structures & Algorithms.
+
+💻 **Looking to collaborate on:**
+
+- Live projects in **MERN Stack & Blockchain Development**.
+- Open-source contributions.
+- Innovative and impactful software projects.
+
+⚡ **Fun Fact:**
+
+I started using GitHub *after* getting into programming, and now I love it! 😃
 
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/shobhit_20_04) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shobhit_20_04) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/shobhit-agrawal20) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/shobhit_20_04) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shobhitagrawal2004@gmail.com)
 
