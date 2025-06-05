@@ -1,6 +1,4 @@
-# 💫 About Me:
-
-## Hi there! I'm Shobhit Agrawal 👋
+# Hi there! I'm Shobhit Agrawal 👋
 
 ## 🚀 About Me
 
