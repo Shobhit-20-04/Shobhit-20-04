@@ -12,7 +12,7 @@
 - **Frontend:** React.js, HTML, CSS, Bootstrap, jQuery
 - **Backend:** Node.js, Express.js, PHP, Django, Flask
 - **Databases:** MySQL, PostgreSQL, MongoDB
-- **AI/ML & Data Science:** NumPy, Pandas, Matplotlib, Plotly, TensorFlow/Keras
+- **AI/ML & Data Science:** NumPy, Pandas, Matplotlib, TensorFlow/Keras
 - **Tools:** Git, GitHub, VS Code, Postman
 
 ### 🚀 Featured Projects
